@@ -52,7 +52,7 @@ Ubi sunt Sparta et Delphī? **Sparta et Dephī in Graeciā sunt.**
 Ubi est Brundisium? **Brundisium in Italiā est.**
 Quid est Brundisium? Brundisium oppidum est.
 Num Crēta oppidum est? Crēta nōn est oppidum.
-Estne Britannia īnsula parva? **Nōn parva, sed īnsula magna est.** alt:**Nōn parva, sed magna est īnsula** alt2: **Britannia īnsula parva nōn est.
+Estne Britannia īnsula parva? **Nōn parva, sed īnsula magna est.** alt:**Nōn parva, sed magna est īnsula** alt2: **Britannia īnsula parva nōn est, sed īnsula magna.**
 Quid est Tiberis? Tiberis fluvius est.
 Quid est D? D littera Latina est.
 Num Δ littera Latīna est? Δ littera Latīna nōn est, sed littera Graeca.
