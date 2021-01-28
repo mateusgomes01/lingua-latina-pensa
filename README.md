@@ -1,2 +1,2 @@
 # lingua-latina-pensa
-My lingua latina pensa answers writen in markdown
+My answers to Lingua Latina per se Illustrata pensa, writen in markdown
