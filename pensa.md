@@ -1,4 +1,4 @@
-# CAPITVLVM PRIMO - IMPERIVM ROMANVM
+# CAPITVLVM PRIMVM - IMPERIVM ROMANVM
 
 ## PENSVM A
 
@@ -88,7 +88,33 @@ Quae est domina ancillārum?
 Estne Cornēlius vir Graecus?
 Num 'puella' vocābulum masculīnum est?
 
+## PENSVM A - ANSWERS
 
+Mārcus fīli- Iūliī est. Iūlia fīli- Iūliī est. Iūlius est vir Rōmān-. Aemilia femina Rōmāna est. Iūlius dominus, Aemilia domina- est. Mēdus servus Graec- est, Dēlia est ancilla Graeca. Sparta oppidum Graecum est.
+Iūlius pater Mārcī est. Mārcus est fīlius Iūliī et Aemiliae. Mēdus servus Iūliī est: Iūlius est dominus servōrum. Iūlius dominus Mēdiī et Dāvī est: Iūlius dominus servōrum est. Numerus serv- magnus est. Dēlia est ancilla Aemili-: Aemilia domina ancillae est. Aemilia domina Dēli- et Syri- est: Aemilia domina ancill- est. In familiā Iūliī est magnus numerus servōrum et ancillārum. Aemilia māter Mārcī et Quīntī et Iūliae est. Mārcus, Quīntus Iūliaque sunt līberi Iūliī et Aemiliae. Numerus līberōrum est trēs. Numerus servōrum est centum.
+In pāginā prīmā capitul- secund- multa vocābula nova
+sunt. Numerus capitul- nōn parvus est.
+
+## PENSVM B - ANSWERS
+
+Mārcus — Rōmānus est. Iūlius — Rōmānus est. Aemilia est — Rōmāna. Iūlius est — Mārcīet Quīntīet Iūliae. In — Iūliī sunt trēs —: duo — et ūna —. — līberōrum est Aemilia.
+— est Dāvus? Dāvus est — Iūliī. Iūlius — Dāvī est. — est
+Syra? Syra — Aemiliae est. Aemilia est — Syrae.
+Cornēlius: "— servīsunt in familiā tuā?" Iūlius: "In familiā — sunt — (c) servī." Cornēlius: "Familia — magna est!"
+'lingva latina' est titulus — tuī Latīnī.
+
+## PENSVM C - ANSWERS
+
+Quis est Quīntus?
+Quī sunt Mēdus et Dāvus?
+Mārcusne quoque servus Iūliī est?
+Cuius fīlia est Iūlia?
+Quot līberi sunt in familiā Iūliī?
+Quot servī in familiā sunt?
+Num Syra domina est?
+Quae est domina ancillārum?
+Estne Cornēlius vir Graecus?
+Num 'puella' vocābulum masculīnum est?
 
 
 
